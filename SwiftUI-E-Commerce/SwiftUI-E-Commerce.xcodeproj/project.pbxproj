@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5225837B2B08004A00628479 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5225837A2B08004A00628479 /* Colors.xcassets */; };
+		5272D4E02B1663B7004B565A /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5272D4DF2B1663B7004B565A /* SplashScreenView.swift */; };
 		52BC6E482B07FDED0026AB2E /* SwiftUI_E_CommerceApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52BC6E472B07FDED0026AB2E /* SwiftUI_E_CommerceApp.swift */; };
 		52BC6E4A2B07FDED0026AB2E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52BC6E492B07FDED0026AB2E /* ContentView.swift */; };
 		52BC6E4C2B07FDF20026AB2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52BC6E4B2B07FDF20026AB2E /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		5225837A2B08004A00628479 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
+		5272D4DF2B1663B7004B565A /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 		52BC6E442B07FDED0026AB2E /* SwiftUI-E-Commerce.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-E-Commerce.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		52BC6E472B07FDED0026AB2E /* SwiftUI_E_CommerceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_E_CommerceApp.swift; sourceTree = "<group>"; };
 		52BC6E492B07FDED0026AB2E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 		522583752B07FF3A00628479 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				5272D4DF2B1663B7004B565A /* SplashScreenView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -223,6 +226,7 @@
 			files = (
 				52BC6E4A2B07FDED0026AB2E /* ContentView.swift in Sources */,
 				52BC6E482B07FDED0026AB2E /* SwiftUI_E_CommerceApp.swift in Sources */,
+				5272D4E02B1663B7004B565A /* SplashScreenView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
